@@ -1,4 +1,4 @@
-# StepIN_VaccineRegist
+# M1_VaccineRegistration
 ## About the code
 | Codacy | Code Inspector | CI | Unity |
 | --- | --- | --- | --- |
